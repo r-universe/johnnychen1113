@@ -1,8 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/johnnychen1113/johnnychen1113.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoBSgenome"]
-	path = autoBSgenome
-	url = https://github.com/JohnnyChen1113/autoBSgenome
-	branch = *release
